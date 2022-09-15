@@ -1,4 +1,4 @@
-### Olá, Eu sou o diparis.
+### Hi, I'm Diparis
 
 <!--
 **diparisCoder/diparisCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
